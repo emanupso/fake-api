@@ -1,11 +1,4 @@
 {
-  "success": true,
-  "type": "availability",
-  "count": 0,
-  "pages": {
-    "nextPageExists": true,
-    "nextPageLink": "example.com/api/example?page=2"
-  },
   "data": [
     {
       "roomId": 0,
