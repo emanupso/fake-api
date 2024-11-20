@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "type": "unitBookings",
+  "count": 0,
+  "pages": {
+    "nextPageExists": true,
+    "nextPageLink": "example.com/api/example?page=2"
+  },
+  "data": [
+    {
+      "roomId": 0,
+      "propertyId": 0,
+      "name": "string",
+      "qty": 0,
+      "unitBookings": {
+        "Fri Jan 01 2021 01:00:00 GMT+0100 (Central European Standard Time)": {
+          "1": 0,
+          "2": 3,
+          "unassigned": 0
+        }
+      }
+    }
+  ]
+}
